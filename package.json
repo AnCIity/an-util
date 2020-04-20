@@ -11,7 +11,8 @@
     "url": "git+https://github.com/AnCIity/an-util.git"
   },
   "keywords": [
-    "JavaScript"
+    "JavaScript",
+    "Utils"
   ],
   "author": "City",
   "license": "MIT",
